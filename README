@@ -1,0 +1,6 @@
+# CSMS survey system (Next.js + Django + PostgreSQL + Supabase)
+
+## Setup
+- Backend: Django
+- Frontend: Next.js
+- Database: PostgreSQL (local) and Supabase (cloud)
