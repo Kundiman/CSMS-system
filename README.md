@@ -212,7 +212,3 @@ By digitizing client satisfaction measurement and automating report generation, 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-```
-
----
